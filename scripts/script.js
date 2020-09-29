@@ -190,10 +190,4 @@ function updateCart() {
     }
 
 
-
-
-
 };
-
-//https://alunos.b7web.com.br/curso/javascript/compra-de-pizzas-parte-8
-//https://github.com/joaogalvesluiz/pizza-purchase
